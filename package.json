@@ -1,0 +1,24 @@
+{
+  "name": "lodash-talk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kylecoberly/data-transformations-with-lodash.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kylecoberly/data-transformations-with-lodash/issues"
+  },
+  "homepage": "https://github.com/kylecoberly/data-transformations-with-lodash#readme",
+  "dependencies": {
+    "jest": "^26.4.2",
+    "lodash": "^4.17.20"
+  }
+}
